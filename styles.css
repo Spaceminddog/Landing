@@ -151,10 +151,23 @@ body {
     .cta-button {
       font-size: 20px;
     }
+    .welcome {
+      max-width: 80%;
+    }
+    .video {
+      max-width: 80%;
+    }
     .how-it-works-item {
       flex-direction: column;
+      max-width: 80%;
     }
     .how-it-works-item img {
       width: 100%;
+    }
+    .cta {
+      max-width: 80%;
+    }
+    .about-container {
+      max-width: 80%;
     }
   }
