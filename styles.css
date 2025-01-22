@@ -113,6 +113,9 @@ body {
   /* CTA Section */
   .cta {
     text-align: center;
+    max-width: 60%;
+    margin: 0 auto;
+    gap: 20px;
   }
   
   /* About Section */
